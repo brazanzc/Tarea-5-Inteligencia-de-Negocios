@@ -66,7 +66,7 @@ El script guarda tres gráficos en el directorio de trabajo:
 
 ```
 .
-├── stroke_eda.py                      # Script principal
+├── main.py                      # Script principal
 ├── healthcare-dataset-stroke-data.csv # Dataset de entrada
 ├── fig1_age_stroke.png                # Gráfico generado
 ├── fig2_glucose_stroke.png            # Gráfico generado
